@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809109498405",
+    "project_id": "mobile-programming-932e9",
+    "storage_bucket": "mobile-programming-932e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809109498405:android:be67235524f5f56a66edcc",
+        "android_client_info": {
+          "package_name": "uts_mobile.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCddG3Gx6v9tNKxk3WVFq-DldSuo5UysNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
